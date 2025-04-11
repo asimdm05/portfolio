@@ -1,6 +1,6 @@
 title: Andrei Sim
 logo : DSC_1673 copy.jpg
-
+skin: "/assets/css/skins/dark.css"
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-so-simple
