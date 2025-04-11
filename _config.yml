@@ -8,3 +8,5 @@ skin: "/assets/css/skins/dark.css"
 gem "jekyll-theme-so-simple"
 theme: jekyll-theme-so-simple
 bundle install
+
+gem "github-pages", group: :jekyll_plugins
